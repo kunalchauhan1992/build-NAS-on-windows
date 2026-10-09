@@ -54,7 +54,7 @@ a surprise or two, and open an issue if you hit one.
 
 ## Looking for Linux?
 
-A separate Linux edition exists: [link to your Linux repo here]
+A separate Linux edition exists: https://github.com/kunalchauhan1992/build-NAS-on-linux
 
 ## Contributing
 
