@@ -14,9 +14,9 @@ Every command runs in PowerShell.
 
 ## Read it
 
-**[Open the live guide](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
+**[Open the live guide](https://github.com/kunalchauhan1992/build-NAS-on-windows/windows.html)**
 
-Or open `index.html` in any browser. It is one self-contained file.
+Or open `windows.html` in any browser. It is one self-contained file.
 No build step, no dependencies.
 
 ## What's inside
